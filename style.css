@@ -1,0 +1,11 @@
+.header {
+    padding: 1px;
+    text-align: center;
+    background: darkorange;
+    color: white;
+    font-size: 30px;
+}
+
+body {
+    margin: 0;
+}
