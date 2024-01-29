@@ -9,3 +9,35 @@
 body {
     margin: 0;
 }
+
+.modal-content {
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-left: calc(2vw - 3px);
+    padding-right: calc(2vw - 3px);
+    border: 2px solid black;
+    overflow: auto;
+    position: relative;
+    max-height: calc(100vh - 90px);
+    font-family: "Segoe UI", "Open Sans", sans-serif;
+    margin: 3px calc(26vw - 100px) 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/*displays on the left of the text*/
+.thumbnail {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 130px;
+    border-radius: 5px;
+}
