@@ -1,10 +1,14 @@
 const nieuws1 = `
+# Gelekte beelden van NASA bewijzen dat de aarde plat is
+**Datum**: 20 januari 2024  
+
+---
 <img src="../kaasjam.jpg"
      alt="Markdown Monster icon"
      style="width: 100%" />
-### Gelekte beelden van NASA bewijzen dat de aarde plat is
-**Datum**: 20 januari 2024  
-Er zou een simulatie zijn gelekt van NASA waarin te zien is hoe de aarde werd ingesloten door een gigantische meteoriet
+<br><br>
+TEKST HIER XD
+
 `
 const nieuws2 = `
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit
