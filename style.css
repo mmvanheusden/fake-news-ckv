@@ -55,6 +55,10 @@ a:hover {
     text-decoration: underline;
 }
 
+a:visited {
+    color: black;
+}
+
 
 /*displays on the left of the text*/
 .thumbnail {
@@ -117,3 +121,19 @@ a:hover {
     margin: 5px 10px;
 }
 
+.news-modal a {
+    color: red;
+    text-decoration: none;
+
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: darkorange;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}

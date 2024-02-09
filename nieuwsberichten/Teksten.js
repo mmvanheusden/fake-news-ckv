@@ -2,6 +2,7 @@ const nieuws1_voor = `
 # Gelekte beelden van NASA bewijzen dat de aarde plat is
 **Datum**: 20 januari 2024  
 
+
 ---
 <img src="../kaasjam.jpg"
      alt="NASA"
