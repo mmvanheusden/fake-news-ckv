@@ -122,9 +122,9 @@ a:visited {
 }
 
 .news-modal a {
-    color: red;
+    color: darkblue;
+    font-weight: bold;
     text-decoration: none;
-
 }
 
 footer {
