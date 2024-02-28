@@ -1,5 +1,5 @@
 const nieuws1 = `
-### Gelekte beelden van NASA bewijzen dat de aarde plat is
+### Gelekte simulaties van NASA bewijzen hoe dinosaurussen zijn uitgestorven
 **Datum**: 20 januari 2024  
 Er zou een simulatie zijn gelekt van NASA waarin te zien is hoe de aarde werd ingesloten door een gigantische meteoriet
 `
