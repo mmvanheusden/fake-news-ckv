@@ -1,7 +1,7 @@
 const nieuws1 = `
-### Gelekte simulaties van NASA bewijzen hoe dinosaurussen zijn uitgestorven
+### Bewijs in het dagelijkse leven dat de aarde plat is
 **Datum**: 20 januari 2024  
-Er zou een simulatie zijn gelekt van NASA waarin te zien is hoe de aarde werd ingesloten door een gigantische meteoriet
+We onthullen de leugens die de samenleving ons vertellen over de aarde
 `
 const nieuws2 = `
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit
