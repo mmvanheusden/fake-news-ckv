@@ -7,7 +7,7 @@ const nieuws1_1 = `
 `
 
 const nieuws1_2 = `
-**In het hedendaagse leven hoor je altijd dat de aarde rond is, je hebt op school geleerd waarom en de logica erachter, Bijvoorbeeld de theorie van de zwaartekracht, of de theorie dat de aarde rond moet zijn omdat het plat zou zijn geweest dan zou je Amsterdam van Utrecht zien, maar vandaag gaan we je bewijzen dat dit allemaal leugens zijn van de overheid om je onder hun controle te houden.**
+**In het hedendaagse leven hoor je altijd dat de aarde rond is, je hebt op school geleerd waarom en de logica erachter, Bijvoorbeeld de theorie van de zwaartekracht, of de theorie dat de aarde rond moet zijn omdat als de aarde plat zou zijn geweest zou je Amsterdam van Utrecht zien, maar vandaag gaan we je bewijzen dat dit allemaal leugens zijn van de overheid om je onder hun controle te houden.**
 `
 const nieuws1_3 =`
 **Bewijs in het dagelijks leven**  
