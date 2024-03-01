@@ -4,7 +4,7 @@ const nieuws1 = `
 We onthullen de leugens die de samenleving ons vertellen over de aarde
 `
 const nieuws2 = `
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit
+### Kanye west zegt geen antisemiet meer te zijn
 **Datum**: 16 januari 2024  
 
 `

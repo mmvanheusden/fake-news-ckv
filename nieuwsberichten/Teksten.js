@@ -39,6 +39,26 @@ const nieuws2 = `
 **Datum**: 16 januari 2024  
 
 `
+
+const nieuws2_1 = `
+# **Kanye west zegt geen antisemiet meer te zijn**
+`
+
+const nieuws2_2 = `
+
+Rapper, songwriter, ondernemer, modeontwerper, presidentskandidaat en producent Kanye Omori West ook wel bekend als 'Ye' beweert dat hij joden niet meer haat na het kijken van 21 Jump Street. De Joodse acteur Jonah Hill speelt in die film. Kanye West was onder de indruk van zijn prestatie.
+
+![](RackMultipart20240301-1-tx39rv_html_72411868877d5dbe.jpg)
+
+**Kanye schudt handen met een jood bij RTL Boulevard**
+
+Kanye West was gisterenavond langs bij RTL Boulevard samen met een jood uit Israelische oorsprong geboren in Nederland. Samen waren ze met diepe gesprekken bezig zoals de oorlog over Israël, Palestina en ook de aanleiding waarom Kanye West antisemitsch is. Uiteindelijk is het conflict opgelost en hebben ze handen geschud als een gebaar van respect.
+
+**Een bericht van de Israëlische president over Kanye west**
+
+Volgens [RTL Nieuws](https://www.rtlnieuws.nl/nieuws/buitenland/artikel/5342668/kanye-west-isaac-herzog-israel-antisemitisme) heeft de president van Israël gereageerd op de ophef die ontstaan is uit de antisemitische uitspraken van Ye. In een interview zegt hij het volgende: **"We maken ons allemaal zorgen over antisemitisme overal in de wereld. Antisemitisme, racisme, vreemdelingenhaat - het zijn allemaal problemen van deze tijd, maar de geschiedenis leert ons dat het meestal begint met Jodenhaat, met Joden de schuld geven, met vreselijke woorden. Daarom doet het me enorm goed om deze imposante reacties op de uitlatingen van Kanye West te zien."**
+`
+
 const nieuws3 = `
 ### Lorem ipsum dolor sit amet, consectetur adipiscing elit
 **Datum**: 9 januari 2024
@@ -49,5 +69,7 @@ document.getElementById('nieuws1_2').innerHTML = marked.parse(nieuws1_2);
 document.getElementById('nieuws1_3').innerHTML = marked.parse(nieuws1_3);
 document.getElementById('nieuws1_4').innerHTML = marked.parse(nieuws1_4);
 document.getElementById('nieuws1_5').innerHTML = marked.parse(nieuws1_5);
+document.getElementById('nieuws2_1').innerHTML = marked.parse(nieuws2_1);
+document.getElementById('nieuws_content').innerHTML = marked.parse(nieuws2_2);
 document.getElementById('nieuws2').innerHTML = marked.parse(nieuws2);
 document.getElementById('nieuws3').innerHTML = marked.parse(nieuws3);
